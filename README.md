@@ -1,4 +1,4 @@
- <img src="public/tailwindlogo.png" width="300">
+<img src="public/tailwindlogo.png" width="300">
  
 # Tailwind CSS Template
 
