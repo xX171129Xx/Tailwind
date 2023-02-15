@@ -5,6 +5,7 @@ module.exports = {
     './pages/**/*.{html,js}',
     './index.js',
     './postcss.config.js',
+    'https://cdn.tailwindcss.com',
   ],
   theme: {
     extend: {},
